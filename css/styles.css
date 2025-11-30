@@ -232,7 +232,7 @@ button {
 /* 3. HERO SECTION                                   */
 /* ================================================= */
 .hero-line-back {
-  background-image: url("../images/img/Graphic-mobil.png");
+  background-image: url("../images/hero/Graphic-mobil.webp");
   height: 947px;
   justify-content: center;
   align-items: center;
@@ -847,7 +847,7 @@ button {
   width: 100%;
   margin: 0 auto;
   color: #fff;
-  background-image: url("../images/images/footer/footer-lines-375.png");
+  background-image: url("../images/footer/footer-lines-375.webp");
   border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
 
@@ -1036,7 +1036,7 @@ button {
     margin-left: 40px;
   }
   .hero-line-back {
-    background-image: url("../images/img/Graphic-tablet.png");
+    background-image: url("../images/hero/Graphic-tablet.webp");
     height: 1120px;
     width: 768px;
     justify-content: center;
@@ -1340,7 +1340,7 @@ button {
 
   /* Footer */
   .footer {
-    background-image: url("../images/images/footer/footer-lines-768.png");
+    background-image: url("../images/footer/footer-lines-768.webp");
     max-width: 768px;
   }
   .footer-container {
@@ -1458,7 +1458,7 @@ button {
     height: 909px;
   }
   .hero-line-back {
-    background-image: url("../images/img/Graphic-pc.png");
+    background-image: url("../images/hero/Graphic-pc.webp");
     width: 1280px;
     height: 909px;
     justify-content: center;
@@ -1761,7 +1761,7 @@ button {
 
   /* Footer */
   .footer {
-    background-image: url("../images/images/footer/footer-lines-1280.png");
+    background-image: url("../images/footer/footer-lines-1280.webp");
     max-width: 1280px;
   }
   .footer-logo-icon {
